@@ -29,10 +29,10 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
         <img
-  className="object-cover object-center rounded-full border-4 border-gray-700 shadow-lg w-64 h-64 mx-auto"
-  alt="Dipesh Tripathi"
-  src="./assets/dipeshPP.jpeg"
-/>
+            className="object-cover object-center rounded-full border-4 border-gray-700 shadow-lg w-64 h-64 mx-auto"
+            alt="Dipesh Tripathi"
+            src="./dipeshtripathi/assets/dipeshPP.jpeg"
+            />
         </div>
       </div>
     </section>

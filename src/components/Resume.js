@@ -14,7 +14,7 @@ export default function Resume() {
         </p>
         <div className="flex justify-center mb-6">
           <a
-            href="/assets/resume_DIPESH_TRIPATHI.pdf"
+            href="./dipeshtripathi/assets/resume_DIPESH_TRIPATHI.pdf"
             download
             className="inline-flex items-center bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
           >
@@ -23,7 +23,7 @@ export default function Resume() {
         </div>
         <div className="w-full max-w-4xl mx-auto">
           <iframe
-            src="/assets/resume_DIPESH_TRIPATHI.pdf"
+            src="./dipeshtripathi/assets/resume_DIPESH_TRIPATHI.pdf"
             title="Dipesh Tripathi Resume"
             width="100%"
             height="600px"
