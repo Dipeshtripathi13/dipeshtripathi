@@ -32,7 +32,7 @@ export const projects = [
       subtitle: "NLP | LSA | Transformers",
       description:
         "Implemented an extractive + abstractive summarization model using LSA and Transformers. Achieved 0.422 average ROUGE-L score for abstractive summaries.",
-      image: `${process.env.PUBLIC_URL}/dipeshtripathi/assets/summarizer.png`,
+      image: `${process.env.PUBLIC_URL}/assets/summarizer.png`,
       link: "#",
     },
     {
@@ -41,7 +41,7 @@ export const projects = [
       description:
         "Built a web app that analyzes social media sentiment using a hybrid model (SVM + Naive Bayes). Achieved 93.53% accuracy for post classification.",
       image: `${process.env.PUBLIC_URL}/assets/sentiment_analysis.jpg`,
-      link: "#",
+      link: "https://github.com/Dipeshtripathi13/threader",
     },
   ];
   
