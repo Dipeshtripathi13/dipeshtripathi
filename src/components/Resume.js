@@ -23,7 +23,7 @@ export default function Resume() {
         </div>
         <div className="w-full max-w-4xl mx-auto">
           <iframe
-            src="./dipeshtripathi/assets/resume_DIPESH_TRIPATHI.pdf"
+          src={`${process.env.PUBLIC_URL}/assets/resume_DIPESH_TRIPATHI.pdf`}
             title="Dipesh Tripathi Resume"
             width="100%"
             height="600px"
