@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dipeshtripathi/static/css/main.103486db.css",
-    "main.js": "/dipeshtripathi/static/js/main.d99525d9.js",
+    "main.js": "/dipeshtripathi/static/js/main.d074d618.js",
     "static/js/453.2684e94b.chunk.js": "/dipeshtripathi/static/js/453.2684e94b.chunk.js",
     "index.html": "/dipeshtripathi/index.html",
     "main.103486db.css.map": "/dipeshtripathi/static/css/main.103486db.css.map",
-    "main.d99525d9.js.map": "/dipeshtripathi/static/js/main.d99525d9.js.map",
+    "main.d074d618.js.map": "/dipeshtripathi/static/js/main.d074d618.js.map",
     "453.2684e94b.chunk.js.map": "/dipeshtripathi/static/js/453.2684e94b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.103486db.css",
-    "static/js/main.d99525d9.js"
+    "static/js/main.d074d618.js"
   ]
 }
