@@ -14,7 +14,7 @@ export default function Resume() {
         </p>
         <div className="flex justify-center mb-6">
           <a
-            href="./dipeshtripathi/assets/resume_DIPESH_TRIPATHI.pdf"
+            href={`${process.env.PUBLIC_URL}/assets/resume_DIPESH_TRIPATHI.pdf`}
             download
             className="inline-flex items-center bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
           >
