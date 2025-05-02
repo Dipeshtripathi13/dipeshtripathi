@@ -31,7 +31,7 @@ export default function About() {
         <img
             className="object-cover object-center rounded-full border-4 border-gray-700 shadow-lg w-64 h-64 mx-auto"
             alt="Dipesh Tripathi"
-            src="./assets/dipeshPP.jpeg"
+            src="./dipeshtripathi/assets/dipeshPP.jpeg"
             />
         </div>
       </div>
